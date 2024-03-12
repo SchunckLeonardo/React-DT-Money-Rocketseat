@@ -1,0 +1,84 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-03-12T09:34:05.326Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 59,
+      "createdAt": "2024-03-12T09:34:05.326Z"
+    },
+    {
+      "description": "Pão com ovo",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-03-12T11:19:36.170Z",
+      "id": 3
+    },
+    {
+      "description": "Arrumar AWS",
+      "price": 100,
+      "category": "Freelancer",
+      "type": "income",
+      "createdAt": "2024-03-12T11:23:12.586Z",
+      "id": 4
+    },
+    {
+      "description": "Academia",
+      "price": 85,
+      "category": "Saúde",
+      "type": "outcome",
+      "createdAt": "2024-03-12T11:31:48.126Z",
+      "id": 5
+    },
+    {
+      "description": "Ignite Rocketseat",
+      "price": 1920,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2024-03-12T12:04:20.743Z",
+      "id": 6
+    },
+    {
+      "description": "Salário",
+      "price": 1420,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2024-03-12T12:06:57.955Z",
+      "id": 7
+    },
+    {
+      "description": "Cadeira Gamer",
+      "price": 770,
+      "category": "Conforto",
+      "type": "outcome",
+      "createdAt": "2024-03-12T12:42:34.594Z",
+      "id": 8
+    },
+    {
+      "description": "Loteria",
+      "price": 5500,
+      "category": "Sorte",
+      "type": "income",
+      "createdAt": "2024-03-12T12:43:36.569Z",
+      "id": 9
+    },
+    {
+      "description": "Saea",
+      "price": 332,
+      "category": "Freelancer",
+      "type": "income",
+      "createdAt": "2024-03-12T12:44:04.083Z",
+      "id": 10
+    }
+  ]
+}
